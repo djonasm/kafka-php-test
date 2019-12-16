@@ -1,5 +1,5 @@
 # kafka-php-test
-Testing Kefka producer and consumer in PHP.
+Testing Kafka producer and consumer in PHP.
 
 ## Usage
 
